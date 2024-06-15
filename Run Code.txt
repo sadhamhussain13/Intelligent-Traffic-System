@@ -1,0 +1,1 @@
+python yolo_video.py --input input.mp4 --output highwayOut.avi --yolo yolo-coco --confidence 0.3
